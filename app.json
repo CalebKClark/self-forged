@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Ultimate Self Improvement App",
+    "name": "Self Forged",
     "slug": "workout-app",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -20,7 +20,7 @@
         "usesNonExemptEncryption": false
       },
       "infoPlist": {
-        "CFBundleDisplayName": "Lock In",
+        "CFBundleDisplayName": "Self Forged",
         "NSHumanReadableCopyright": "Copyright © 2026 Caleb Clark",
         "NSPasteboardUsageDescription": "Used only when you copy or paste your saved data for backup or import."
       },

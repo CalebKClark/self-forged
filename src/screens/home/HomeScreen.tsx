@@ -69,7 +69,7 @@ export function HomeScreen() {
 
   return (
     <Screen safeTop>
-      <Kicker text="Ultimate Self Improvement" />
+      <Kicker text="Self Forged" />
       <Text style={styles.title}>Build yourself{'\n'}every day.</Text>
       <Text style={styles.sub}>Stay locked in. Separate streaks. One standard.</Text>
 

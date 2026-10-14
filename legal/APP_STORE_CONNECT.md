@@ -6,7 +6,7 @@ Host `legal/privacy-policy.html` on a public HTTPS URL (GitHub Pages, Notion pub
 
 ## App Information
 
-- **Name:** Ultimate Self Improvement App
+- **Name:** Self Forged
 - **Subtitle:** Diet, gym, and habit tracker
 - **Bundle ID:** `com.caleb.workoutapp`
 - **SKU:** something unique, e.g. `usi-001`

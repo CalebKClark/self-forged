@@ -1,6 +1,6 @@
 export const LEGAL_CONTACT_EMAIL = 'calebkimballclark@gmail.com';
 export const LEGAL_DEVELOPER_NAME = 'Caleb Clark';
-export const LEGAL_APP_NAME = 'Ultimate Self Improvement App';
+export const LEGAL_APP_NAME = 'Self Forged';
 export const LEGAL_EFFECTIVE_DATE = 'October 7, 2026';
 
 export const HEALTH_DISCLAIMER =
