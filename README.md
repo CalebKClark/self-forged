@@ -2,7 +2,7 @@
 
 A phone app for workouts, diet, and habits. Log a gym session, track calories and protein, check off daily tasks, and see whether the day was completed.
 
-Built with Expo and React Native. Logs stay on the device. There is no account.
+Built with Expo and React Native. Logs stay on the device. There is no account system in place yet.
 
 ## Run
 
